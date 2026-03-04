@@ -1,0 +1,166 @@
+{
+  "profile": {
+    "name": "Sam Liu",
+    "headline": "I build useful web3 products.",
+    "intro": "Mostly payments, stablecoins, and growth.",
+    "location": "Palo Alto, California",
+    "linkedinUrl": "https://www.linkedin.com/in/sumangliu/",
+    "email": "",
+    "heroImage": ""
+  },
+  "about": {
+    "summary": "I like hard product with real constraints.",
+    "focusAreas": [
+      "Payments",
+      "Stablecoins",
+      "Growth"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Director of Product Management",
+      "company": "OKX",
+      "start": "Aug 2024",
+      "end": "Present",
+      "summary": "Leading Pay, card, and consumer money flows.",
+      "bullets": [
+        "Leading Pay, card, and consumer money flows."
+      ]
+    },
+    {
+      "role": "Director of Product Management - Growth",
+      "company": "Circle",
+      "start": "Jul 2023",
+      "end": "Jun 2024",
+      "summary": "Ran USDC growth across liquidity and distribution.",
+      "bullets": [
+        "Ran USDC growth across liquidity and distribution."
+      ]
+    },
+    {
+      "role": "Principal PM / Director, Circle Data",
+      "company": "Circle",
+      "start": "Jun 2022",
+      "end": "Aug 2023",
+      "summary": "Built the first product layer for Circle Data.",
+      "bullets": [
+        "Built the first product layer for Circle Data."
+      ]
+    },
+    {
+      "role": "Product Manager",
+      "company": "AWS",
+      "start": "Jan 2020",
+      "end": "May 2022",
+      "summary": "Led product for SageMaker Studio.",
+      "bullets": [
+        "Led product for SageMaker Studio."
+      ]
+    },
+    {
+      "role": "CEO / Co-Founder",
+      "company": "Mosaix.ai",
+      "start": "2016",
+      "end": "2020",
+      "summary": "Built and scaled a YC-backed voice product.",
+      "bullets": [
+        "Built and scaled a YC-backed voice product."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "type": "Payments",
+      "source": "OKX",
+      "title": "OKX Pay + Card rollout",
+      "summary": "Consumer payments work focused on making stablecoin spending feel simple and mainstream.",
+      "links": [
+        {
+          "label": "Launch note",
+          "url": "https://lnkd.in/gmFxtwGd"
+        },
+        {
+          "label": "Product page",
+          "url": "https://my.okx.com"
+        }
+      ]
+    },
+    {
+      "type": "Coverage",
+      "source": "Press",
+      "title": "External coverage",
+      "summary": "Launches worth talking about tend to show up outside the company feed too.",
+      "links": [
+        {
+          "label": "Block News",
+          "url": "https://lnkd.in/dr6fDfs2"
+        },
+        {
+          "label": "Launch context",
+          "url": "https://lnkd.in/gmFxtwGd"
+        }
+      ]
+    },
+    {
+      "type": "Video",
+      "source": "OKX Singapore",
+      "title": "Market adoption conversation",
+      "summary": "A more direct look at how local growth, trust, and payments execution actually play out.",
+      "links": [
+        {
+          "label": "Watch clip",
+          "url": "https://lnkd.in/gPq598sP"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "Build",
+      "items": [
+        "0 to 1",
+        "Growth",
+        "GTM"
+      ]
+    },
+    {
+      "group": "Operate",
+      "items": [
+        "Roadmaps",
+        "Teams",
+        "Clarity"
+      ]
+    },
+    {
+      "group": "Domains",
+      "items": [
+        "Payments",
+        "Stablecoins",
+        "Consumer"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "title": "USDC growth",
+      "context": "",
+      "impact": "40% circulation growth. Roughly $300M in new ARR."
+    },
+    {
+      "title": "OKX Pay + Card",
+      "context": "",
+      "impact": "Pushing consumer crypto toward normal."
+    },
+    {
+      "title": "Founder + operator",
+      "context": "",
+      "impact": "Startup speed. Scaled execution."
+    }
+  ],
+  "contact": {
+    "primaryCtaLabel": "Find me on LinkedIn",
+    "primaryCtaUrl": "https://www.linkedin.com/in/sumangliu/",
+    "secondaryCtaLabel": "",
+    "secondaryCtaUrl": ""
+  }
+}
